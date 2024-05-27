@@ -1,0 +1,30 @@
+lastupdatecheck: 0
+recentrepos:
+    - /home/qrzk/dotfiles
+    - /home/qrzk/Personal-Project/Authentication/e-libz
+    - /home/qrzk/Personal-Project/Authentication/auth
+    - /home/qrzk/UKK/E-Perpus
+    - /home/qrzk/UKK/my-Eperpus
+startuppopupversion: 5
+lastversion: 0.42.0
+customcommandshistory:
+    - q
+    - 'git remote add origin git@github.com:akhdrzki/dotfiles.git '
+    - git remote add origin git@github.com:akhdrzki/ebook-libz.git
+    - git remote add origin git@github.com:akhdrzki/OAuth-Implemented.git
+    - git remote add git@github.com:akhdrzki/OAuth-Implemented.git
+    - git add src/middleware/
+    - git remote add git@github.com:Rzkdriech/kasir-be.git
+    - git remote add origin git@github.com:Rzkdriech/E-Perpus-fe.git
+    - git remote add origin https://github.com/Rzkdriech/E-Perpus-fe.git
+    - git remote remove origin
+    - git remote add origin git@github.com:Rzkdriech/kasir-app-be.git
+    - git remote add origin git@github.com:Rzkdriech/kasir-be.git
+    - git remote add origin git@github.com:akhdrzki/Stock-management-system-REST-API.git
+hidecommandlog: false
+ignorewhitespaceindiffview: false
+diffcontextsize: 3
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always
