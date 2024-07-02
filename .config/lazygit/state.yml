@@ -1,14 +1,32 @@
 lastupdatecheck: 0
 recentrepos:
     - /home/qrzk/dotfiles
+    - /home/qrzk/Belajar-Coding/page1-exercise
+    - /home/qrzk/Belajar-Coding/css-exercise
+    - /home/qrzk/Belajar-Coding/flexbox-exercise
+    - /home/qrzk/Belajar-Coding/mastering-css/tiny-css-exercise
+    - /home/qrzk/Belajar-Coding/learn-css-flexbox
+    - /home/qrzk/Belajar-Coding/dicoding-web/dicoding-last-task-web
+    - /home/qrzk/Belajar-Coding/html-dasar/html-dasar
+    - /home/qrzk/Belajar-Coding/belajar-typescript
+    - /home/qrzk/Belajar-Coding/user-auth
+    - /home/qrzk/Belajar-Coding/SOLID
     - /home/qrzk/Personal-Project/Authentication/e-libz
+    - /home/qrzk/Personal-Project/RE-API/Gramed-API
     - /home/qrzk/Personal-Project/Authentication/auth
     - /home/qrzk/UKK/E-Perpus
     - /home/qrzk/UKK/my-Eperpus
 startuppopupversion: 5
 lastversion: 0.42.0
 customcommandshistory:
+    - git remote add git@github-rzkdriech:Rzkdriech/html-dasar.git
     - q
+    - git
+    - git remote add origin git@github-rzkdriech:Rzkdriech/html-dasar.git
+    - git remote add origin git@github.com:akhdrzki/belajar-typescript.git:akhdrzki
+    - git remote add origin git@github.com:akhdrzki/user-auth.git
+    - git remote add origin git@github.com:akhdrzki/learn-solid-principle.git
+    - git remote add origin git@github.com:akhdrzki/Gramedia-Unofficial-API.git
     - 'git remote add origin git@github.com:akhdrzki/dotfiles.git '
     - git remote add origin git@github.com:akhdrzki/ebook-libz.git
     - git remote add origin git@github.com:akhdrzki/OAuth-Implemented.git
