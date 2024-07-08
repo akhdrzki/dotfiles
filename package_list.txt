@@ -1,6 +1,5 @@
 alacritty
 arandr
-archlinux-tweak-tool-git
 base
 base-devel
 bettercap
@@ -71,7 +70,6 @@ pipewire-pulse
 polybar
 postgresql
 postman-bin
-ppsspp
 pptpclient
 python-pip
 python-pipenv
