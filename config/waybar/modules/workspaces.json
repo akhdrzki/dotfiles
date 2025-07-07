@@ -1,0 +1,8 @@
+{
+  "hyprland/workspaces": {
+    "format": "<span size='10000'>{icon}</span>",
+    "persistent-workspaces": {
+      "*": 6
+    }
+  }
+}

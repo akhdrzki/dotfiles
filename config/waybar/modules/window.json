@@ -1,0 +1,6 @@
+{
+  "hyprland/window": {
+    "format": "<span size='11000'>\uf2d0</span>  {initialTitle}",
+    "tooltip": false
+  }
+}

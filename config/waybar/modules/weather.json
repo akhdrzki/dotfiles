@@ -1,0 +1,8 @@
+{
+  "custom/weather": {
+    "exec": "wttrbar --location Mataram --nerd",
+    "interval": 1800,
+    "format": "{}",
+    "return-type": "json"
+  }
+}

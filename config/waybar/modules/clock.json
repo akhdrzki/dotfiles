@@ -1,0 +1,6 @@
+{
+  "clock": {
+    "format": "<span size='11500'>\udb85\udc4e</span>  {:%I:%M %p}",
+    "tooltip": false
+  }
+}

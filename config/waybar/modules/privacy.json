@@ -1,0 +1,14 @@
+{
+  "privacy": {
+    "icon-spacing": 12,
+    "icon-size": 12,
+    "modules": [
+      {
+        "type": "screenshare"
+      },
+      {
+        "type": "audio-in"
+      }
+    ]
+  }
+}
