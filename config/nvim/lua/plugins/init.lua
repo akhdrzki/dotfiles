@@ -27,6 +27,7 @@ return {
         "css",
         "python",
         "typst",
+        "cpp",
       },
     },
   },

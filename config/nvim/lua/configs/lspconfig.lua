@@ -1,6 +1,6 @@
 require("nvchad.configs.lspconfig").defaults()
 
-local servers = { "html", "cssls", "pylsp", "luals", "tinymist", "clangd" }
+local servers = { "html", "cssls", "css_variables", "cssmodules_ls", "pylsp", "luals", "tinymist", "clangd", "jsonls" }
 vim.lsp.enable(servers)
 
 vim.lsp.config("tinymist", {
@@ -46,5 +46,9 @@ vim.lsp.config("tinymist", {
 --   filetypes = { "typst" },
 --   root_markers = { ".git" },
 -- }
+
+-- .config/nvim/lua/configs/lspconfig.lua
+-- ...
+vim.diagnostic.config { virtual_text = false }
 
 -- read :h vim.lsp.config for changing options of lsp servers
